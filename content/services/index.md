@@ -13,6 +13,9 @@ title = "Services"
 - a meta-search engine.
 - [Source](https://github.com/searxng/searxng)
 ## Privacy front-ends
+#### [Invidious](https://invidious.hackerhöhle.org)
+- a frontend for YouTube
+- [Source](https://github.com/iv-org/invidious)
 #### [Libreddit](https://libreddit.hackerhöhle.org)
 - a frontend for Reddit.
 - [Source](https://github.com/libreddit/libreddit)
