@@ -3,10 +3,6 @@ title = "Services"
 +++
 
 ## Useful tools and services
-#### [Matrix](https://chat.hackerhöhle.org)
-- An open network for secure, decentralized communication.
-- To create an account you need a registration token, please write us a mail.
-- [Source](https://github.com/matrix-org/synapse)
 #### Wireguard VPN
 - WIP
 #### [SearXNG](https://searxng.hackerhöhle.org)
